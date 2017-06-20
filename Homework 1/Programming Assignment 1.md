@@ -1,4 +1,4 @@
-# Programming Question 1
+# Programming Assignment 1
 
 Download the text file here. (Right click and select "Save As...")
 
